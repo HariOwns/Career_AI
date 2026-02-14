@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Career Assessment</title>
+    <link rel="stylesheet" href="css/assessment.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://unpkg.com/lucide@latest"></script>
+</head>
+<body>
+
+<!-- NAVBAR -->
+<header class="navbar">
+    <div class="nav-container">
+        <h2 class="logo">CareerAI</h2>
+        <!-- <div class="nav-actions">
+            <button class="btn-outline">Dashboard</button>
+            <button class="btn-outline logout-btn">Logout</button>
+        </div> -->
+    </div>
+</header>
+
+
+<!-- MAIN CONTENT -->
+<section class="assessment-container">
+
+    <a href="index.html" class="back-link"> ← Back </a>
+
+
+    <h1>Career Assessment</h1>
+    <p class="subtitle">Help us understand your background and goals</p>
+
+    <!-- PROGRESS -->
+    <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+    </div>
+    <p class="step-text" id="stepText">Step 1 of 3</p>
+
+    <!-- FORM CARD -->
+    <div class="form-card">
+
+        <!-- STEP 1 -->
+        <div class="step active" id="step1">
+            <label>Current Role (Optional)</label>
+            <input type="text" placeholder="e.g., Software Developer, Student">
+
+            <label>Highest Education Level *</label>
+            <div class="select-wrapper">
+            <select>
+        <option disabled selected>Select education level</option>
+        <option>High School</option>
+        <option>Diploma</option>
+        <option>Bachelor's</option>
+        <option>Master's</option>
+        </select>
+        </div>
+
+            <label>Years of Experience *</label>
+            <select id="experienceInput" class="select-field">
+                <option value="Fresher">Fresher</option>
+                <option value="1+">1+ Years</option>
+                <option value="2+">2+ Years</option>
+                <option value="3+">3+ Years</option>
+                <option value="5+">5+ Years</option>
+                <option value="10+">10+ Years</option>
+            </select>
+
+
+            <div class="btn-row">
+                <div></div>
+                <button class="btn-primary" onclick="nextStep()">Next →</button>
+            </div>
+        </div>
+
+        <!-- STEP 2 -->
+        <div class="step" id="step2">
+         <label>Your Skills *</label>
+
+            <div class="tag-input autocomplete-wrapper">
+                <input type="text" id="skillInput" placeholder="e.g., Python, UI Design" autocomplete="off">
+                <button type="button" class="add-btn" onclick="addTag('skill')">Add</button>
+                <div id="skillDropdown" class="autocomplete-dropdown"></div>
+            </div>
+            <div class="tags" id="skillTags"></div>
+            
+            <label>Your Interests *</label>
+            <div class="tag-input autocomplete-wrapper">
+                <input type="text" id="interestInput" placeholder="e.g., AI, Healthcare" autocomplete="off">
+                <button type="button" class="add-btn" onclick="addTag('interest')">Add</button>
+                <div id="interestDropdown" class="autocomplete-dropdown"></div>
+            </div>
+            <div class="tags" id="interestTags"></div>
+
+            <div class="btn-row">
+                <button class="btn-light" onclick="prevStep()">← Previous</button>
+                <button class="btn-primary" onclick="nextStep()">Next →</button>
+            </div>
+        </div>
+
+        <!-- STEP 3 -->
+        <div class="step" id="step3">
+            <div class="form-group">
+            <label>Career Preference</label>
+            <div class="preference-group">
+                <label class="preference-option">
+                    <input type="checkbox" id="internshipPref">
+                    <span>Internship</span>
+                </label>
+
+                <label class="preference-option">
+                    <input type="checkbox" id="freelancePref">
+                    <span>Freelance</span>
+                </label>
+            </div>
+        </div>
+
+            <label>Career Goals *</label>
+            <textarea rows="4"></textarea>
+
+            <label>Preferred Industries</label>
+        <div class="tag-input autocomplete-wrapper">
+            <input type="text" id="industryInput" placeholder="e.g., IT, Finance" autocomplete="off">
+            <button type="button" class="add-btn" onclick="addTag('industry')">Add</button>
+            <div id="industryDropdown" class="autocomplete-dropdown"></div>
+        </div>
+        <div class="tags" id="industryTags"></div>
+            
+        <div class="form-group">
+            <label>Work Style Preference</label>
+            <select id="workStyleInput" class="select-field">
+                <option value="Hybrid">Hybrid</option>
+                <option value="Remote">Remote</option>
+                <option value="On-site">On-site</option>
+            </select>
+        </div>
+        
+            <div class="btn-row">
+                <button class="btn-light" onclick="prevStep()">← Previous</button>
+                <button id="generateBtn" class="primary-btn" onclick="generate()">Generate Recommendation</button>
+            </div>
+        </div>
+
+    </div>
+</section>
+
+<!-- LOADING -->
+<div class="loading-overlay" id="loadingOverlay">
+    <div class="loading-box">
+        <div class="spinner"></div>
+
+        <div class="loading-status">
+            <span id="loadingIcon"></span>
+            <span id="loadingStatus"></span>
+        </div>
+
+        <p id="loadingTimer"></p>
+    </div>
+</div>
+
+<script src="js/assessment.js"></script>
+</body>
+</html>

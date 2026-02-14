@@ -1,0 +1,1899 @@
+{
+  "Frontend Developer": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Coding",
+    "majors": [
+      "IT",
+      "Computer Science"
+    ],
+    "skills": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹6 LPA - ₹12 LPA",
+      "expert": "₹12 LPA - ₹20 LPA"
+    },
+    "careerPath": "Frontend → Full Stack → Tech Lead",
+    "freelance": true,
+    "description": "Frontend Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced HTML",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Frontend Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Frontend Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Backend Developer": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Python",
+      "Node",
+      "SQL"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹7 LPA",
+      "intermediate": "₹8 LPA - ₹15 LPA",
+      "expert": "₹18 LPA - ₹30 LPA"
+    },
+    "careerPath": "Backend → Senior → Architect",
+    "freelance": true,
+    "description": "Backend Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Python",
+      "Node",
+      "SQL",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Python",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Backend Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Backend Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Full Stack Developer": {
+    "category": "IT",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "React",
+      "Node",
+      "APIs"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "Full Stack → Senior → Engineering Manager",
+    "freelance": true,
+    "description": "Full Stack Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "React",
+      "Node",
+      "APIs",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced React",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Full Stack Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Full Stack Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Data Analyst": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Coding",
+    "majors": [
+      "IT",
+      "Statistics"
+    ],
+    "skills": [
+      "Excel",
+      "SQL",
+      "Python"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹7 LPA",
+      "intermediate": "₹8 LPA - ₹15 LPA",
+      "expert": "₹18 LPA - ₹28 LPA"
+    },
+    "careerPath": "Data Analyst → Data Scientist",
+    "freelance": true,
+    "description": "Data Analyst works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Excel",
+      "SQL",
+      "Python",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Excel",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Data Analyst Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Data Analyst Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Data Scientist": {
+    "category": "AI",
+    "level": "Expert",
+    "type": "Coding",
+    "majors": [
+      "IT",
+      "Data Science"
+    ],
+    "skills": [
+      "Machine Learning",
+      "Python"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹10 LPA",
+      "intermediate": "₹15 LPA - ₹25 LPA",
+      "expert": "₹30 LPA - ₹60 LPA"
+    },
+    "careerPath": "Data Scientist → AI Lead",
+    "freelance": true,
+    "description": "Data Scientist works within the AI domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Machine Learning",
+      "Python",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Machine Learning",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Data Scientist Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Data Scientist Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Cloud Engineer": {
+    "category": "Cloud",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "AWS",
+      "Azure"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹9 LPA",
+      "intermediate": "₹12 LPA - ₹22 LPA",
+      "expert": "₹25 LPA - ₹40 LPA"
+    },
+    "careerPath": "Cloud Engineer → Cloud Architect",
+    "freelance": true,
+    "description": "Cloud Engineer works within the Cloud domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "AWS",
+      "Azure",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced AWS",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Cloud Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Cloud Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Cybersecurity Analyst": {
+    "category": "Cybersecurity",
+    "level": "Beginner",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Network Security",
+      "Ethical Hacking"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹45 LPA"
+    },
+    "careerPath": "Security Analyst → Security Architect",
+    "freelance": true,
+    "description": "Cybersecurity Analyst works within the Cybersecurity domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Network Security",
+      "Ethical Hacking",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Network Security",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Cybersecurity Analyst Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Cybersecurity Analyst Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "DevOps Engineer": {
+    "category": "DevOps",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Docker",
+      "CI/CD"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹10 LPA",
+      "intermediate": "₹15 LPA - ₹25 LPA",
+      "expert": "₹30 LPA - ₹50 LPA"
+    },
+    "careerPath": "DevOps → Cloud DevOps Lead",
+    "freelance": true,
+    "description": "DevOps Engineer works within the DevOps domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Docker",
+      "CI/CD",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Docker",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced DevOps Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "DevOps Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "UI/UX Designer": {
+    "category": "Multimedia",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Design",
+      "IT"
+    ],
+    "skills": [
+      "Figma",
+      "Wireframing"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹8 LPA - ₹15 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "UI Designer → Product Designer",
+    "freelance": true,
+    "description": "UI/UX Designer works within the Multimedia domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Figma",
+      "Wireframing",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Figma",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced UI/UX Designer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "UI/UX Designer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Graphic Designer": {
+    "category": "Multimedia",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Design"
+    ],
+    "skills": [
+      "Photoshop",
+      "Illustrator"
+    ],
+    "salaryINR": {
+      "fresher": "₹2.5 LPA - ₹5 LPA",
+      "intermediate": "₹6 LPA - ₹12 LPA",
+      "expert": "₹15 LPA - ₹25 LPA"
+    },
+    "careerPath": "Graphic Designer → Art Director",
+    "freelance": true,
+    "description": "Graphic Designer works within the Multimedia domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Photoshop",
+      "Illustrator",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Photoshop",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Graphic Designer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Graphic Designer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Digital Marketing Executive": {
+    "category": "Marketing",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Marketing",
+      "Business"
+    ],
+    "skills": [
+      "SEO",
+      "Social Media",
+      "Google Ads"
+    ],
+    "salaryINR": {
+      "fresher": "₹2.5 LPA - ₹5 LPA",
+      "intermediate": "₹6 LPA - ₹12 LPA",
+      "expert": "₹15 LPA - ₹30 LPA"
+    },
+    "careerPath": "DM Executive → Marketing Manager",
+    "freelance": true,
+    "description": "Digital Marketing Executive works within the Marketing domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "SEO",
+      "Social Media",
+      "Google Ads",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced SEO",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Digital Marketing Executive Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Digital Marketing Executive Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Accountant": {
+    "category": "Finance",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Commerce",
+      "Finance"
+    ],
+    "skills": [
+      "Tally",
+      "GST"
+    ],
+    "salaryINR": {
+      "fresher": "₹2.5 LPA - ₹4 LPA",
+      "intermediate": "₹5 LPA - ₹10 LPA",
+      "expert": "₹15 LPA - ₹25 LPA"
+    },
+    "careerPath": "Accountant → Finance Manager",
+    "freelance": false,
+    "description": "Accountant works within the Finance domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Tally",
+      "GST",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Tally",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Accountant Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Accountant Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Hardware Engineer": {
+    "category": "Hardware",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "ECE",
+      "Hardware"
+    ],
+    "skills": [
+      "Networking",
+      "Troubleshooting"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹7 LPA - ₹12 LPA",
+      "expert": "₹15 LPA - ₹22 LPA"
+    },
+    "careerPath": "Hardware Engineer → Network Architect",
+    "freelance": false,
+    "description": "Hardware Engineer works within the Hardware domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Networking",
+      "Troubleshooting",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Networking",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Hardware Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Hardware Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Mobile App Developer": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Flutter",
+      "React Native",
+      "Java"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "Mobile Dev → Senior → Tech Lead",
+    "freelance": true,
+    "description": "Mobile App Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Flutter",
+      "React Native",
+      "Java",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Flutter",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Mobile App Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Mobile App Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "QA Tester": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Manual Testing",
+      "Automation Testing"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹7 LPA - ₹14 LPA",
+      "expert": "₹15 LPA - ₹25 LPA"
+    },
+    "careerPath": "Tester → QA Lead → Test Manager",
+    "freelance": false,
+    "description": "QA Tester works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Manual Testing",
+      "Automation Testing",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Manual Testing",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced QA Tester Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "QA Tester Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "System Administrator": {
+    "category": "IT",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Linux",
+      "Server Management"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹7 LPA",
+      "intermediate": "₹8 LPA - ₹15 LPA",
+      "expert": "₹18 LPA - ₹30 LPA"
+    },
+    "careerPath": "Sys Admin → Infrastructure Manager",
+    "freelance": false,
+    "description": "System Administrator works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Linux",
+      "Server Management",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Linux",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced System Administrator Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "System Administrator Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Blockchain Developer": {
+    "category": "IT",
+    "level": "Expert",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Solidity",
+      "Web3",
+      "Smart Contracts"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹12 LPA",
+      "intermediate": "₹15 LPA - ₹25 LPA",
+      "expert": "₹30 LPA - ₹60 LPA"
+    },
+    "careerPath": "Blockchain Dev → Web3 Architect",
+    "freelance": true,
+    "description": "Blockchain Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Solidity",
+      "Web3",
+      "Smart Contracts",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Solidity",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Blockchain Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Blockchain Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Ethical Hacker": {
+    "category": "Cybersecurity",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Penetration Testing",
+      "Networking"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹9 LPA",
+      "intermediate": "₹12 LPA - ₹22 LPA",
+      "expert": "₹25 LPA - ₹45 LPA"
+    },
+    "careerPath": "Ethical Hacker → Security Consultant",
+    "freelance": true,
+    "description": "Ethical Hacker works within the Cybersecurity domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Penetration Testing",
+      "Networking",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Penetration Testing",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Ethical Hacker Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Ethical Hacker Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "SAP Consultant": {
+    "category": "Business",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "Commerce",
+      "Business"
+    ],
+    "skills": [
+      "SAP FICO",
+      "ERP"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹10 LPA",
+      "intermediate": "₹12 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹40 LPA"
+    },
+    "careerPath": "SAP Consultant → ERP Lead",
+    "freelance": true,
+    "description": "SAP Consultant works within the Business domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "SAP FICO",
+      "ERP",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced SAP FICO",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced SAP Consultant Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "SAP Consultant Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Business Intelligence Analyst": {
+    "category": "Data",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT",
+      "Business"
+    ],
+    "skills": [
+      "Power BI",
+      "Tableau",
+      "SQL"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "BI Analyst → BI Manager",
+    "freelance": true,
+    "description": "Business Intelligence Analyst works within the Data domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Power BI",
+      "Tableau",
+      "SQL",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Power BI",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Business Intelligence Analyst Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Business Intelligence Analyst Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "HR Executive": {
+    "category": "Non-IT",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "HR",
+      "Business"
+    ],
+    "skills": [
+      "Recruitment",
+      "Communication"
+    ],
+    "salaryINR": {
+      "fresher": "₹2.5 LPA - ₹4 LPA",
+      "intermediate": "₹5 LPA - ₹9 LPA",
+      "expert": "₹12 LPA - ₹20 LPA"
+    },
+    "careerPath": "HR → HR Manager",
+    "freelance": false,
+    "description": "HR Executive works within the Non-IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Recruitment",
+      "Communication",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Recruitment",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced HR Executive Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "HR Executive Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Content Writer": {
+    "category": "Marketing",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Any"
+    ],
+    "skills": [
+      "Writing",
+      "SEO"
+    ],
+    "salaryINR": {
+      "fresher": "₹2 LPA - ₹4 LPA",
+      "intermediate": "₹5 LPA - ₹8 LPA",
+      "expert": "₹10 LPA - ₹18 LPA"
+    },
+    "careerPath": "Writer → Content Strategist",
+    "freelance": true,
+    "description": "Content Writer works within the Marketing domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Writing",
+      "SEO",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Writing",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Content Writer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Content Writer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Video Editor": {
+    "category": "Multimedia",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Media",
+      "Design"
+    ],
+    "skills": [
+      "Premiere Pro",
+      "After Effects"
+    ],
+    "salaryINR": {
+      "fresher": "₹2.5 LPA - ₹5 LPA",
+      "intermediate": "₹6 LPA - ₹12 LPA",
+      "expert": "₹15 LPA - ₹25 LPA"
+    },
+    "careerPath": "Editor → Creative Director",
+    "freelance": true,
+    "description": "Video Editor works within the Multimedia domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Premiere Pro",
+      "After Effects",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Premiere Pro",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Video Editor Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Video Editor Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Game Developer": {
+    "category": "IT",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Unity",
+      "C#",
+      "Game Physics"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹45 LPA"
+    },
+    "careerPath": "Game Dev → Lead Game Engineer",
+    "freelance": true,
+    "description": "Game Developer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Unity",
+      "C#",
+      "Game Physics",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Unity",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Game Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Game Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Network Engineer": {
+    "category": "Hardware",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "ECE",
+      "IT"
+    ],
+    "skills": [
+      "Networking",
+      "Cisco"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹7 LPA - ₹14 LPA",
+      "expert": "₹18 LPA - ₹30 LPA"
+    },
+    "careerPath": "Network Engineer → Network Architect",
+    "freelance": false,
+    "description": "Network Engineer works within the Hardware domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Networking",
+      "Cisco",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Networking",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Network Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Network Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Financial Analyst": {
+    "category": "Finance",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "Finance",
+      "Commerce"
+    ],
+    "skills": [
+      "Financial Modeling",
+      "Excel"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹7 LPA",
+      "intermediate": "₹8 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "Financial Analyst → Finance Manager",
+    "freelance": false,
+    "description": "Financial Analyst works within the Finance domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Financial Modeling",
+      "Excel",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Financial Modeling",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Financial Analyst Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Financial Analyst Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Investment Banker": {
+    "category": "Finance",
+    "level": "Expert",
+    "type": "Non-Coding",
+    "majors": [
+      "Finance"
+    ],
+    "skills": [
+      "Valuation",
+      "Corporate Finance"
+    ],
+    "salaryINR": {
+      "fresher": "₹8 LPA - ₹15 LPA",
+      "intermediate": "₹20 LPA - ₹40 LPA",
+      "expert": "₹50 LPA - ₹1 Cr"
+    },
+    "careerPath": "IB Analyst → VP → Director",
+    "freelance": false,
+    "description": "Investment Banker works within the Finance domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Valuation",
+      "Corporate Finance",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Valuation",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Investment Banker Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Investment Banker Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "AR/VR Developer": {
+    "category": "Emerging Tech",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT",
+      "Game Development"
+    ],
+    "skills": [
+      "Unity",
+      "ARKit",
+      "VR Interaction"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹10 LPA",
+      "intermediate": "₹12 LPA - ₹22 LPA",
+      "expert": "₹25 LPA - ₹45 LPA"
+    },
+    "careerPath": "AR/VR Dev → XR Architect",
+    "freelance": true,
+    "description": "AR/VR Developer works within the Emerging Tech domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Unity",
+      "ARKit",
+      "VR Interaction",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Unity",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced AR/VR Developer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "AR/VR Developer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Robotics Engineer": {
+    "category": "Engineering",
+    "level": "Expert",
+    "type": "Coding",
+    "majors": [
+      "Mechanical",
+      "ECE",
+      "IT"
+    ],
+    "skills": [
+      "Python",
+      "ROS",
+      "Automation"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹12 LPA",
+      "intermediate": "₹15 LPA - ₹28 LPA",
+      "expert": "₹30 LPA - ₹60 LPA"
+    },
+    "careerPath": "Robotics Engineer → Automation Architect",
+    "freelance": false,
+    "description": "Robotics Engineer works within the Engineering domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Python",
+      "ROS",
+      "Automation",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Python",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Robotics Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Robotics Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Prompt Engineer": {
+    "category": "AI",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Any"
+    ],
+    "skills": [
+      "AI Tools",
+      "Prompt Design",
+      "Critical Thinking"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹12 LPA",
+      "intermediate": "₹15 LPA - ₹25 LPA",
+      "expert": "₹30 LPA - ₹50 LPA"
+    },
+    "careerPath": "Prompt Engineer → AI Consultant",
+    "freelance": true,
+    "description": "Prompt Engineer works within the AI domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "AI Tools",
+      "Prompt Design",
+      "Critical Thinking",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced AI Tools",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Prompt Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Prompt Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "AI Trainer": {
+    "category": "AI",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Any"
+    ],
+    "skills": [
+      "Data Labeling",
+      "AI Tools"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹8 LPA - ₹15 LPA",
+      "expert": "₹18 LPA - ₹30 LPA"
+    },
+    "careerPath": "AI Trainer → AI Specialist",
+    "freelance": true,
+    "description": "AI Trainer works within the AI domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Data Labeling",
+      "AI Tools",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Data Labeling",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced AI Trainer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "AI Trainer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Influencer / Content Creator": {
+    "category": "Digital Media",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Any"
+    ],
+    "skills": [
+      "Branding",
+      "Video Editing",
+      "Social Media"
+    ],
+    "salaryINR": {
+      "fresher": "₹2 LPA - ₹5 LPA",
+      "intermediate": "₹6 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹1 Cr+"
+    },
+    "careerPath": "Creator → Brand Collaborator → Entrepreneur",
+    "freelance": true,
+    "description": "Influencer / Content Creator works within the Digital Media domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Branding",
+      "Video Editing",
+      "Social Media",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Branding",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Influencer / Content Creator Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Influencer / Content Creator Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Supply Chain Analyst": {
+    "category": "Business",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "Commerce",
+      "Logistics"
+    ],
+    "skills": [
+      "Data Analysis",
+      "Operations"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹7 LPA",
+      "intermediate": "₹8 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "SC Analyst → Operations Manager",
+    "freelance": false,
+    "description": "Supply Chain Analyst works within the Business domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Data Analysis",
+      "Operations",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Data Analysis",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Supply Chain Analyst Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Supply Chain Analyst Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "UI Systems Designer": {
+    "category": "Design",
+    "level": "Expert",
+    "type": "Non-Coding",
+    "majors": [
+      "Design"
+    ],
+    "skills": [
+      "Design Systems",
+      "Component Libraries"
+    ],
+    "salaryINR": {
+      "fresher": "₹5 LPA - ₹9 LPA",
+      "intermediate": "₹12 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹40 LPA"
+    },
+    "careerPath": "UI Designer → Systems Designer → Design Lead",
+    "freelance": true,
+    "description": "UI Systems Designer works within the Design domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Design Systems",
+      "Component Libraries",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Design Systems",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced UI Systems Designer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "UI Systems Designer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Growth Hacker": {
+    "category": "Marketing",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "Marketing"
+    ],
+    "skills": [
+      "Analytics",
+      "SEO",
+      "Paid Ads"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹45 LPA"
+    },
+    "careerPath": "Growth Exec → Growth Manager",
+    "freelance": true,
+    "description": "Growth Hacker works within the Marketing domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "Analytics",
+      "SEO",
+      "Paid Ads",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Analytics",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Growth Hacker Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Growth Hacker Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Product Manager": {
+    "category": "Business",
+    "level": "Expert",
+    "type": "Non-Coding",
+    "majors": [
+      "IT",
+      "Business"
+    ],
+    "skills": [
+      "Strategy",
+      "Product Roadmap"
+    ],
+    "salaryINR": {
+      "fresher": "₹8 LPA - ₹15 LPA",
+      "intermediate": "₹20 LPA - ₹40 LPA",
+      "expert": "₹50 LPA - ₹1 Cr"
+    },
+    "careerPath": "PM → Senior PM → Director",
+    "freelance": false,
+    "description": "Product Manager works within the Business domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Strategy",
+      "Product Roadmap",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Strategy",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Product Manager Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Product Manager Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "AR Designer": {
+    "category": "Emerging Tech",
+    "level": "Intermediate",
+    "type": "Non-Coding",
+    "majors": [
+      "Design"
+    ],
+    "skills": [
+      "3D Design",
+      "AR Prototyping"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹18 LPA",
+      "expert": "₹20 LPA - ₹35 LPA"
+    },
+    "careerPath": "AR Designer → XR Lead",
+    "freelance": true,
+    "description": "AR Designer works within the Emerging Tech domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "3D Design",
+      "AR Prototyping",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced 3D Design",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced AR Designer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "AR Designer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Technical Writer": {
+    "category": "IT",
+    "level": "Beginner",
+    "type": "Non-Coding",
+    "majors": [
+      "Any"
+    ],
+    "skills": [
+      "Documentation",
+      "Communication"
+    ],
+    "salaryINR": {
+      "fresher": "₹3 LPA - ₹6 LPA",
+      "intermediate": "₹8 LPA - ₹14 LPA",
+      "expert": "₹15 LPA - ₹25 LPA"
+    },
+    "careerPath": "Tech Writer → Documentation Lead",
+    "freelance": true,
+    "description": "Technical Writer works within the IT domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "6–12 months",
+    "requiredSkills": [
+      "Documentation",
+      "Communication",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Documentation",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Technical Writer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Technical Writer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Data Engineer": {
+    "category": "Data",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "SQL",
+      "ETL",
+      "Big Data"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹10 LPA",
+      "intermediate": "₹15 LPA - ₹25 LPA",
+      "expert": "₹30 LPA - ₹50 LPA"
+    },
+    "careerPath": "Data Engineer → Data Architect",
+    "freelance": true,
+    "description": "Data Engineer works within the Data domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "SQL",
+      "ETL",
+      "Big Data",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced SQL",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Data Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Data Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Cloud Security Engineer": {
+    "category": "Cloud",
+    "level": "Expert",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "AWS Security",
+      "IAM"
+    ],
+    "salaryINR": {
+      "fresher": "₹7 LPA - ₹12 LPA",
+      "intermediate": "₹18 LPA - ₹30 LPA",
+      "expert": "₹35 LPA - ₹60 LPA"
+    },
+    "careerPath": "Cloud Security → Security Architect",
+    "freelance": true,
+    "description": "Cloud Security Engineer works within the Cloud domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "AWS Security",
+      "IAM",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced AWS Security",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Cloud Security Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Cloud Security Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Automation Engineer": {
+    "category": "Engineering",
+    "level": "Intermediate",
+    "type": "Coding",
+    "majors": [
+      "ECE",
+      "IT"
+    ],
+    "skills": [
+      "PLC",
+      "Automation Tools"
+    ],
+    "salaryINR": {
+      "fresher": "₹4 LPA - ₹8 LPA",
+      "intermediate": "₹10 LPA - ₹20 LPA",
+      "expert": "₹25 LPA - ₹40 LPA"
+    },
+    "careerPath": "Automation → Plant Manager",
+    "freelance": false,
+    "description": "Automation Engineer works within the Engineering domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "8–18 months",
+    "requiredSkills": [
+      "PLC",
+      "Automation Tools",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced PLC",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Automation Engineer Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Automation Engineer Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  },
+  "Cyber Forensics Expert": {
+    "category": "Cybersecurity",
+    "level": "Expert",
+    "type": "Coding",
+    "majors": [
+      "IT"
+    ],
+    "skills": [
+      "Digital Forensics",
+      "Cyber Law"
+    ],
+    "salaryINR": {
+      "fresher": "₹6 LPA - ₹10 LPA",
+      "intermediate": "₹15 LPA - ₹28 LPA",
+      "expert": "₹30 LPA - ₹55 LPA"
+    },
+    "careerPath": "Forensics → Cyber Consultant",
+    "freelance": true,
+    "description": "Cyber Forensics Expert works within the Cybersecurity domain focusing on scalable solutions, industry standards and performance-driven implementations.",
+    "transitionTime": "12–24 months",
+    "requiredSkills": [
+      "Digital Forensics",
+      "Cyber Law",
+      "Problem Solving",
+      "Version Control"
+    ],
+    "skillGapFocus": [
+      "Advanced Digital Forensics",
+      "System Design",
+      "Cloud Integration"
+    ],
+    "learningResources": [
+      {
+        "title": "Advanced Cyber Forensics Expert Mastery",
+        "provider": "Coursera",
+        "duration": "2–4 months"
+      },
+      {
+        "title": "Cyber Forensics Expert Industry Projects",
+        "provider": "Udemy",
+        "duration": "1–3 months"
+      }
+    ]
+  }
+}

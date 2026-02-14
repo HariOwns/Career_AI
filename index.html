@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CareerAI</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script defer src="js/script.js"></script>
+    <script src="https://unpkg.com/lucide@latest"></script>
+
+</head>
+<body>
+
+    <!-- NAVBAR -->
+    <header class="navbar">
+    <div class="logo">CareerAI</div>
+
+    <div id="navActions">
+        <button class="btn-primary open-auth cta-assessment">Get Started</button>
+    </div>
+</header>
+
+    <div id="welcomeBar" class="welcome-bar"></div>
+
+    <!-- HERO SECTION -->
+    <section class="hero">
+        <div class="hero-content">
+            <span class="badge">AI-POWERED CAREER GUIDANCE</span>
+            <p id="heroWelcome" class="hero-welcome"></p>
+
+            <h1>
+                Navigate Your Career with <br>
+                <span class="highlight">AI Precision</span>
+            </h1>
+            <p>
+                Get personalized career recommendations, discover ideal job roles, 
+                and access curated learning resources—all powered by advanced AI analysis.
+            </p>
+
+            <div class="hero-buttons">
+            <button class="btn-primary open-auth cta-assessment">Take Assessment →</button>
+            <button class="btn-outline cta-upload">Upload Resume</button>
+            </div>
+        </div>
+
+        <div class="hero-image">
+    <div class="carousel">
+        <img src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d" class="active" alt="career 1">
+        <img src="https://images.unsplash.com/photo-1551836022-d5d88e9218df" alt="career 2">
+        <img src="https://images.unsplash.com/photo-1492724441997-5dc865305da7" alt="career 3">
+    </div>
+</div>
+
+    </section>
+
+    <!-- HOW IT WORKS -->
+    <section class="how-it-works">
+        <p class="section-subtitle">HOW IT WORKS</p>
+        <h2>Your Path to Career Clarity</h2>
+
+        <div class="cards">
+
+    <div class="card">
+        <div class="icon">
+            <i data-lucide="user"></i>
+        </div>
+        <h3>Share Your Profile</h3>
+        <p>Complete a questionnaire or upload your resume</p>
+    </div>
+
+    <div class="card">
+        <div class="icon">
+            <i data-lucide="bar-chart-3"></i>
+        </div>
+        <h3>AI Analysis</h3>
+        <p>Advanced algorithms analyze your skills and goals</p>
+    </div>
+
+    <div class="card">
+        <div class="icon">
+            <i data-lucide="book-open"></i>
+        </div>
+        <h3>Get Recommendations</h3>
+        <p>Receive personalized career paths and job roles</p>
+    </div>
+
+    <div class="card">
+        <div class="icon">
+            <i data-lucide="rocket"></i>
+        </div>
+        <h3>Take Action</h3>
+        <p>Access curated learning resources to upskill</p>
+    </div>
+
+</div>
+
+    </section>
+
+    <!-- CTA SECTION -->
+    <section class="cta">
+        <h2>Ready to Discover Your Ideal Career?</h2>
+        <p>Join thousands of professionals who have found clarity in their career journey.</p>
+        <button class="btn-primary open-auth cta-assessment">Get Started Now →</button>
+    </section>
+
+<!-- AUTH MODAL -->
+<div class="modal-overlay" id="authModal">
+    <div class="modal">
+        <button class="close-btn" onclick="closeModal()">✕</button>
+
+        <h2>Welcome to CareerAI</h2>
+
+     <div class="tabs">
+    <button type="button" class="tab active" id="loginTab">Login</button>
+    <button type="button" class="tab" id="signupTab">Sign Up</button>
+</div>
+
+
+ <div class="form-wrapper">
+
+    <!-- LOGIN FORM -->
+<form id="loginForm" class="form active">
+
+    <div class="form-message" id="loginMessage"></div>
+
+    <div class="input-group">
+        <input type="text" id="loginIdentifier" placeholder="Email or Phone Number">
+    </div>
+
+    <div class="input-group password-field">
+        <input type="password" id="loginPassword" placeholder="Password">
+        <button type="button" class="toggle-btn" data-target="loginPassword">
+            <i data-lucide="eye"></i>
+        </button>
+    </div>
+
+    <button type="submit" class="btn-primary full">Login</button>
+</form>
+
+
+    <!-- SIGNUP FORM -->
+    <form id="signupForm" class="form">
+
+    <div class="form-message" id="signupMessage"></div>
+
+    <div class="input-group">
+        <input type="text" id="signupName" placeholder="Full Name">
+    </div>
+
+    <div class="input-group">
+        <input type="email" id="signupEmail" placeholder="Email Address">
+    </div>
+
+    <div class="input-group">
+        <input type="tel" id="signupPhone" placeholder="Phone Number">
+    </div>
+
+    <div class="input-group password-field">
+        <input type="password" id="signupPassword" placeholder="Create Password">
+        <button type="button" class="toggle-btn" data-target="signupPassword">
+            <i data-lucide="eye"></i>
+        </button>
+    </div>
+
+    <div class="input-group password-field">
+        <input type="password" id="signupConfirmPassword" placeholder="Confirm Password">
+    </div>
+
+    <button type="submit" class="btn-primary full">Create Account</button>
+</form>
+
+
+</div>
+
+
+    </div>
+</div>
+
+<div id="snackbar"></div>
+
+</body>
+</html>
